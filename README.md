@@ -1,24 +1,11 @@
-# Web Dev Starter Code
+# M11.2 Lab
 
 ## Overview
 
-TODO: Write a project description
+A full-stack web application that integrates with AWS services to manage inventory items in a cloud database. Users can view all items in a dynamic table, add new items through an HTML form, and delete existing items. The app uses API calls to AWS Lambda functions to interact with the database backend.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- XMLHttpRequest: https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/DOM_scripting
 
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
